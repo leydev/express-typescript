@@ -1,0 +1,7 @@
+docker-compose-prod.yml
+docker-compose-dev.yml
+node_modules
+package-lock.json
+*.log
+.env
+dist
